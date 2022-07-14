@@ -3,6 +3,8 @@
 
 <img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+<h3 align="left">Um pouco sobre esse que vós fala:</h3>
+
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados. **Viver de dados com Power Bi e Python, e todas as plataformas que podem facilitar o mundo através dos dados.**
 
 - 🌱 No momento me aperfeiçoando em **Python e Machine Learning**
