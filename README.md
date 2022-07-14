@@ -5,9 +5,9 @@
 
 <h3 align="left">Um pouco sobre esse que vós fala:</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados. **Viver de dados com Power Bi e Python, e todas as plataformas que podem facilitar o mundo através dos dados.**
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados em projetos pessoais **Power Bi e Python, usando os dados para sempre aprender mais**
 
-- 🌱 No momento me aperfeiçoando em **Python e Machine Learning**
+- 🌱 No momento me aperfeiçoando em **Python e Machine Learning, e aperfeiçoando habilidades em SQL**
 
 - 👯 Eu busco contribui com a ciência de dados e tomadas de decisões inteligentes **com visualizações acertivas**
 
