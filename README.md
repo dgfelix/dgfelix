@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Douglas Félix</h1>
+<h1 align="center">👋 Olá, eu sou o Félix</h1>
 <h3 align="center">Analista de Dados e Acadêmico de Engenharia da Computação</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados. **Viver de dados com Power Bi e Python, e todas as plataformas que podem facilitar o mundo através dos dados.**
