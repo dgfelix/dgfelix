@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Félix</h1>
 <h3 align="center">Analista de Dados e Acadêmico de Engenharia da Computação</h3>
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados. **Viver de dados com Power Bi e Python, e todas as plataformas que podem facilitar o mundo através dos dados.**
 
 - 🌱 No momento me aperfeiçoando em **Python e Machine Learning**
