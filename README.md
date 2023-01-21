@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Félix</h1>
 <h3 align="center">Desenvolvedor, Analista de Dados e Acadêmico de Engenharia da Computação</h3>
-<h5 align="center">E futuro cientista de dados</h5>
+<h5 align="center">Aspirante a cientista de dados</h5>
 
 <img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
