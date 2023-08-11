@@ -6,7 +6,7 @@
 
 <h3 align="left">Um pouco sobre esse que vós fala:</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados em projetos pessoais **Power Bi e Python, usando dados e cursos para sempre aprender mais**
+- 🔭 Experiência e trabalhando no momento com ferramentas de engenharia e análise de dados, sendo algumas delas **SSIS, SSAS, Power Bi, SQL Server**
 
 - 🌱 No momento me aperfeiçoando em **Python e Machine Learning, e aperfeiçoando habilidades em SQL**
 
