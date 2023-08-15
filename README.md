@@ -8,7 +8,7 @@
 
 - 🔭 Experiência e trabalhando no momento com ferramentas de engenharia e análise de dados, sendo algumas delas **SSIS, SSAS, Power Bi, SQL Server**
 
-- 🌱 No momento me aperfeiçoando em **Python e Machine Learning, e aperfeiçoando habilidades em SQL**
+- 🌱 No momento me aperfeiçoando em **Python, Machine Learning e evoluindo habilidades em SQL**
 
 - 👯 Eu busco contribui com a ciência de dados e tomadas de decisões inteligentes **com visualizações acertivas**
 
