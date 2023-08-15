@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor, Analista de Dados e Acadêmico de Engenharia da Computação</h3>
 <h5 align="center">Aspirante a cientista de dados</h5>
 
-<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Um pouco sobre esse que vós fala:</h3>
 
