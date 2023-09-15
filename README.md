@@ -12,9 +12,9 @@
 
 - 👯 Eu busco contribui com a ciência de dados e tomadas de decisões inteligentes **com visualizações acertivas**
 
-- 💬 Me pergunte sobre **Power BI, SQL, Python, Banco de Dados, Estrutura de dados, mostragem de dados entre outros.**
+- 💬 Conhecimento nas áreas **SQL, Python, Power BI, Banco de Dados, Estrutura de dados, mostragem de dados entre outros.**
 
-- 📫 Me encontre pelo e-mail **D.felix00@live.com**
+- 📫 Meu e-mail para contatos e dúvidas **D.felix00@live.com**
 
 - ⚡ Fato divertido, **os dados estão em tudo, apenas precisamos saber exergar-los.**
 
