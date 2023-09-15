@@ -16,8 +16,6 @@
 
 - 📫 Me encontre pelo e-mail **D.felix00@live.com**
 
-- 📄 Fui fundado por Douglas Félix e aqui se encontra um pouco das minhas experiências: [github.com/dgfelix](github.com/dgfelix)
-
 - ⚡ Fato divertido, **os dados estão em tudo, apenas precisamos saber exergar-los.**
 
 <h3 align="left">Conecte comigo através:</h3>
