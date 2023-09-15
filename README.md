@@ -4,7 +4,7 @@
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h3 align="left">Um pouco sobre esse que vós fala:</h3>
+<h3 align="left">Um pouco sobre mim:</h3>
 
 - 🔭 Experiência e trabalhando no momento com ferramentas de engenharia e análise de dados, sendo algumas delas **SSIS, SSAS, Power Bi, SQL Server**
 
